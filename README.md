@@ -11,7 +11,6 @@ Website ini juga dilengkapi dengan fitur login, dashboard, profil pengguna, dan 
 ## Teknologi yang Digunakan
 - PHP
 - Laravel
-- MySQL
 - HTML
 - CSS
 - Bootstrap
